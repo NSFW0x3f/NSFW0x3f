@@ -4,7 +4,7 @@ ____
     <div style="flex: 1;">
         <img src="giphy.gif" alt="">
     </div>
-    <div style="flex: 1">
+    <div style="flex: 1;">
         <img src="giphy1.gif" alt="" style="width: 322px;">
     </div>
 </div>
