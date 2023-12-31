@@ -7,9 +7,6 @@ ____
     <div style="margin-left: 10px;">
         <img src="giphy1.gif" alt="" style="width: 322px;">
     </div>
-    <div style="margin-left: 10px;">
-        <img src="giphy2.gif" alt="">
-    </div>
 </div>
 
 ____
