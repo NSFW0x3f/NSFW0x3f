@@ -4,7 +4,7 @@ ____
     <div style="flex: 1;">
         <img src="giphy.gif" alt="">
     </div>
-    <div style="margin-left: 10px;">
+    <div style="flex: 1">
         <img src="giphy1.gif" alt="" style="width: 322px;">
     </div>
 </div>
@@ -29,7 +29,7 @@ _____
     <img src="https://github-readme-stats.vercel.app/api?username=G0TTERDAMMERUNG&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
   </div>
 
-  <div style="flex: ;">
+  <div style="flex: 2;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G0TTERDAMMERUNG&langs_count=8" alt="Top Langs">
   </div>
 
