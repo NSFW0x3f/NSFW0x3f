@@ -1,13 +1,15 @@
 ____
 
-<div style="display: flex; align-items: center;">
-    <div style="flex: 1;">
-        <img src="giphy.gif" alt="">
-    </div>
-    <div style="flex: 1;">
-        <img src="giphy1.gif" alt="" style="width: 322px;">
-    </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="giphy.gif" alt="">
+    </td>
+    <td>
+      <img src="giphy1.gif" alt="" style="width: 350px;">
+    </td>
+  </tr>
+</table>
 
 ____
 
