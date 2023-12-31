@@ -6,7 +6,7 @@ ____
       <img src="giphy.gif" alt="">
     </td>
     <td>
-      <img src="giphy1.gif" alt="" style="width: 350px;">
+      <img src="giphy1.gif" alt="" style="width: 360px;">
     </td>
   </tr>
 </table>
@@ -25,14 +25,13 @@ ____
 
 _____
 
-<div style="display: flex; justify-content: space-between;">
-
-  <div style="flex: 2;">
-    <img src="https://github-readme-stats.vercel.app/api?username=G0TTERDAMMERUNG&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
-  </div>
-
-  <div style="flex: 2;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G0TTERDAMMERUNG&langs_count=8" alt="Top Langs">
-  </div>
-
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=G0TTERDAMMERUNG&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G0TTERDAMMERUNG&langs_count=8" alt="Top Langs">
+    </td>
+  </tr>
+</table>
