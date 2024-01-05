@@ -1,12 +1,41 @@
 ____
 
+<div align="center">
+  <h4 style="white-space: pre; font-family: monospace;">
+                        ▄▄                                                   ▄▄          
+▀████▀     █     ▀███▀██                                                   ██  ▄█▀▀▀█▄ 
+  ▀██     ▄██     ▄█  ██                                                       ██▀  ▀█▄
+   ██▄   ▄███▄   ▄█   ███████▄   ▄██▀██▄     ▄█▀██▄ ▀████████▄█████▄     ▀███       ▄██
+    ██▄  █▀ ██▄  █▀   ██    ██  ██▀   ▀██   ██   ██   ██    ██    ██       ██    ████▀ 
+    ▓██ █▀  ▀██ █▀    ██    █▓  ██     ██    ▄███▓█   ▓█    ██    ██       ▓█    ██    
+     ▓██▄    ▓██▄     █▓    █▓  ██     ▓█   █▓   ▓█   ▓█    ▓█    ██       ▓█    ▄▓    
+     ▓▓█▓▀   ▓▓█▓▀    ▓▓    ▓▓  ▓█     ▓▓    ▓▓▓▓▒▓   ▓▓    ▓▓    ▓▓       ▓▓    ▓▓    
+     ▓▓▓▓    ▓▓▓▓     ▓▒    ▓▒  ▓▓▓   ▓▓▓   ▓▓   ▒▓   ▒▓    ▒▓    ▓▓       ▓▓    ▓▓    
+      ▒       ▒      ▒ ▒   ▒ ▒ ▒ ▒ ▒ ▒ ▒    ▒▓▒ ▒ ▓▒▒ ▒▓▒  ▒▒▒   ▒▒▓▒    ▒ ▒ ▒   ▒     
+                                                                                         
+   </h2>
+</div>
+
+
+
 <table>
   <tr>
     <td>
-      <img src="giphy.gif" alt="">
+      <img src="nsfw.gif" alt="" style="width: 1370px;">
     </td>
     <td>
-      <img src="giphy1.gif" alt="" style="width: 360px;">
+      <img src="dance.gif" alt="" style="width: 100%;">
+      <img src="1.gif" alt="" style="width: 100%;">
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td>
+      <img src="giphy.gif" alt="" style="width: 100%;">
+    </td>
+    <td>
+      <img src="giphy1.gif" alt="" style="width: 360px">
     </td>
   </tr>
 </table>
@@ -24,14 +53,3 @@ ____
 </div>
 
 _____
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=G0TTERDAMMERUNG&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G0TTERDAMMERUNG&langs_count=8" alt="Top Langs">
-    </td>
-  </tr>
-</table>
