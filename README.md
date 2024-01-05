@@ -11,16 +11,6 @@ ____
     </td>
   </tr>
 </table>
-<table>
-  <tr>
-    <td>
-      <img src="giphy.gif" alt="" style="width: 100%;">
-    </td>
-    <td>
-      <img src="giphy1.gif" alt="" style="width: 360px">
-    </td>
-  </tr>
-</table>
 
 ____
 
@@ -33,5 +23,19 @@ ____
   ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 </div>
+
+_____
+
+
+<table>
+  <tr>
+    <td>
+      <img src="giphy.gif" alt="" style="width: 100%;">
+    </td>
+    <td>
+      <img src="giphy1.gif" alt="" style="width: 360px">
+    </td>
+  </tr>
+</table>
 
 _____
