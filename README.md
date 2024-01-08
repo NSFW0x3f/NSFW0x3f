@@ -25,20 +25,3 @@ ____
 </div>
 
 _____
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=NSFW0x3f&show_icons=true&theme=radical" alt="NSFW0x3f's GitHub stats">
-    </td>
-    <td>
-    <div align="right">
-  
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NSFW0x3f&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-   
-   </div>
-    </td>
-  </tr>
-</table>
-
-_____
